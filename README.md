@@ -12,7 +12,7 @@ Desarrollador mobile con más de 8 años de experiencia en aplicaciones móviles
 
 ## Experiencia profesional
 
-**Mobile Developer** — Ligo, Lima &nbsp;|&nbsp; 09/2025 – 03/2026
+**Mobile Developer** — Ligo, Lima &nbsp;|&nbsp; 09/2025 – 06/2026
 
 - Desarrollé aplicaciones móviles nativas e híbridas utilizando Flutter y Android/iOS, implementando módulos de onboarding, pagos, transferencias y QR integrados con APIs RESTful.
 - Apliqué Clean Code, principios SOLID, POO, DDD y arquitectura limpia, asegurando escalabilidad y mantenibilidad.
